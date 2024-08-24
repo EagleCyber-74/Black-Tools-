@@ -124,4 +124,6 @@ apt install python3
 git clone https://github.com/EagleCyber-74/Black-Tools
 pip3 install requests
 cd Black-Tools
-python hack.py
+python bash.sh
+
+run >> python hack.py 
