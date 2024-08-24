@@ -121,7 +121,7 @@ pkg install git
 apt install python
 apt install python2
 apt install python3
-git clone https://github.com/EagleCyber-74/Black-Tools
+git clone https://github.com/EagleCyber-74/Black-Tools-
 pip3 install requests
 cd Black-Tools
 python bash.sh
